@@ -1,0 +1,12 @@
+
+.container{
+  padding-top: 30px;
+}
+
+.listadoColaboradores{
+  padding-top: 20px;
+}
+
+li{
+  list-style-type: none;
+}
